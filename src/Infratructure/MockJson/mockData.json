@@ -1,0 +1,82 @@
+[
+  {
+    "EMPNO": 1001,
+    "FIRST_NAME": "STEFAN",
+    "LAST_NAME": "SALVATORE",
+    "DESIGNATION": "BUSINESS ANALYST",
+    "HIREDATE": "17-NOV-97",
+    "SALARY": 50000,
+    "COMM": "-",
+    "DEPTNO": 40
+  },
+  {
+    "EMPNO": 1002,
+    "FIRST_NAME": "DIANA",
+    "LAST_NAME": "LORRENCE",
+    "DESIGNATION": "TECHNICAL ARCHITECT",
+    "HIREDATE": "01-MAY-00",
+    "SALARY": 70000,
+    "COMM": "-",
+    "DEPTNO": 10
+  },
+  {
+    "EMPNO": 1003,
+    "FIRST_NAME": "JAMES",
+    "LAST_NAME": "MADINSAON",
+    "DESIGNATION": "MANAGER",
+    "HIREDATE": "19-JUN-88",
+    "SALARY": 84000,
+    "COMM": "-",
+    "DEPTNO": 20
+  },
+  {
+    "EMPNO": 1005,
+    "FIRST_NAME": "LUCY",
+    "LAST_NAME": "GELLER",
+    "DESIGNATION": "HR ASSOCIATE",
+    "HIREDATE": "13-JUL-08",
+    "SALARY": 35000,
+    "COMM": "200",
+    "DEPTNO": 30
+  },
+  {
+    "EMPNO": 1006,
+    "FIRST_NAME": "ISAAC",
+    "LAST_NAME": "STEFAN",
+    "DESIGNATION": "TRAINEE",
+    "HIREDATE": "13-DEC-15",
+    "SALARY": 20000,
+    "COMM": "-",
+    "DEPTNO": 40
+  },
+  {
+    "EMPNO": 1007,
+    "FIRST_NAME": "JOHN",
+    "LAST_NAME": "SMITH",
+    "DESIGNATION": "CLERK",
+    "HIREDATE": "17-DEC-05",
+    "SALARY": 12000,
+    "COMM": "-",
+    "DEPTNO": 10
+  },
+  {
+    "EMPNO": 1008,
+    "FIRST_NAME": "NANCY",
+    "LAST_NAME": "GILLBERT",
+    "DESIGNATION": "SALESMAN",
+    "HIREDATE": "20-FEB-81",
+    "SALARY": 1600,
+    "COMM": "300",
+    "DEPTNO": 30
+  },
+  {
+    "EMPNO": 1004,
+    "FIRST_NAME": "JONES",
+    "LAST_NAME": "NICK",
+    "DESIGNATION": "HR ANALYST",
+    "HIREDATE": "02-JAN-03",
+    "SALARY": 47000,
+    "COMM": "-",
+    "DEPTNO": 30
+  }
+]
